@@ -1,0 +1,5 @@
+Location: app-mysql-example.cugsuhj5od2b.us-east-2.rds.amazonaws.com
+Port number: 3306
+Database: appmysqlexample
+Username: student
+Password: studentpass
