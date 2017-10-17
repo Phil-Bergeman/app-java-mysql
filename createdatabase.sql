@@ -1,4 +1,5 @@
 CREATE DATABASE mlbplayoffs;
+USE mlbplayoffs;
 
 DROP TABLE IF EXISTS team;
 
